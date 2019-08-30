@@ -1,0 +1,1 @@
+# admin-beauty-pay-cz.netlify.com
